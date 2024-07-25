@@ -1,0 +1,2 @@
+Program ini dibuat untuk memenuhi Skripsi pada Teknik Informatika dengan Metode Profil Matching. 
+Data yang digunakan adalah data yang diambil dari pemerintahan guna keselarahan penelitian. 
